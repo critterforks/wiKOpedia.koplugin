@@ -1,16 +1,15 @@
 # wiKOpedia.koplugin
 WiKOpedia - A better way to encyclopedia.
 
-<img width="300" height="*" alt="rqdsvjmn3uzh1" src="https://github.com/user-attachments/assets/269aca09-7b71-44bc-9501-d2c745d30aae" />
-<img width="300" height="*" alt="h08pbjmn3uzh1" src="https://github.com/user-attachments/assets/c053fc54-8da9-4c29-93eb-8f12854ac6f7" />
-<img width="300" height="*" alt="uxeb0kmn3uzh1" src="https://github.com/user-attachments/assets/a0a21e66-a24d-4272-bf70-a0c6341d0000" />
-<img width="300" height="*" alt="vgvw0lmn3uzh1" src="https://github.com/user-attachments/assets/465722c3-4950-4b1d-8077-0754181e65b7" />
-<img width="300" height="*" alt="xfau4vhn4uzh1" src="https://github.com/user-attachments/assets/4e8a5dbe-ec4c-44f1-8434-f247ba6c65fc" />
-<img width="300" height="*" alt="3iqt4vhn4uzh1" src="https://github.com/user-attachments/assets/dcf3b320-a52b-453b-a19b-395ac99d087b" />
-
-<img width="300" height="*" alt="na479whn4uzh1" src="https://github.com/user-attachments/assets/081d10bf-cdcc-498b-84d2-90c4bba9d52e" />
-<img width="300" height="*" alt="fe44wkmn3uzh1" src="https://github.com/user-attachments/assets/1b11a861-110e-4ffc-b724-015651eabaec" />
-<img width="300" height="*" alt="a165lkmn3uzh1" src="https://github.com/user-attachments/assets/6bb0134c-2df3-4726-bd14-1a6911bbc381" />
+<img width="150" height="*" alt="rqdsvjmn3uzh1" src="https://github.com/user-attachments/assets/269aca09-7b71-44bc-9501-d2c745d30aae" />
+<img width="150" height="*" alt="h08pbjmn3uzh1" src="https://github.com/user-attachments/assets/c053fc54-8da9-4c29-93eb-8f12854ac6f7" />
+<img width="150" height="*" alt="uxeb0kmn3uzh1" src="https://github.com/user-attachments/assets/a0a21e66-a24d-4272-bf70-a0c6341d0000" />
+<img width="150" height="*" alt="vgvw0lmn3uzh1" src="https://github.com/user-attachments/assets/465722c3-4950-4b1d-8077-0754181e65b7" />
+<img width="150" height="*" alt="xfau4vhn4uzh1" src="https://github.com/user-attachments/assets/4e8a5dbe-ec4c-44f1-8434-f247ba6c65fc" />
+<img width="150" height="*" alt="3iqt4vhn4uzh1" src="https://github.com/user-attachments/assets/dcf3b320-a52b-453b-a19b-395ac99d087b" />
+<img width="150" height="*" alt="na479whn4uzh1" src="https://github.com/user-attachments/assets/081d10bf-cdcc-498b-84d2-90c4bba9d52e" />
+<img width="150" height="*" alt="fe44wkmn3uzh1" src="https://github.com/user-attachments/assets/1b11a861-110e-4ffc-b724-015651eabaec" />
+<img width="150" height="*" alt="a165lkmn3uzh1" src="https://github.com/user-attachments/assets/6bb0134c-2df3-4726-bd14-1a6911bbc381" />
 
 
 WiKOpedia - a Wikipedia reader for KOReader
