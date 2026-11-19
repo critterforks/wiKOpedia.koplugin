@@ -1,7 +1,7 @@
 # wiKOpedia.koplugin
 WiKOpedia - A better way to encyclopedia.
 
-WiKOpedia v1.0 - a Wikipedia reader for KOReader
+WiKOpedia - a Wikipedia reader for KOReader
 ================================================
 
 INSTALL (or UPDATE)
